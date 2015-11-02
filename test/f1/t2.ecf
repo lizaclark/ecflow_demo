@@ -1,0 +1,4 @@
+%include <head.h>
+echo "I am a script t2 in %ECF_HOME%"
+%include <tail.h>
+
